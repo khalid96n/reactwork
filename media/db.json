@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Iris Haag",
+      "id": 5
+    },
+    {
+      "name": "Valerie Little",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Generic Steel Sausages",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Generic Steel Pizza",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Metal Sausages",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Frozen Towels",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Practical Plastic Table",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Granite Car",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Fresh Chair",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Plastic Bike",
+      "id": 18
+    }
+  ],
+  "photos": []
+}

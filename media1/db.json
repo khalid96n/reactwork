@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Wilma Ullrich",
+      "id": 5
+    },
+    {
+      "name": "Kevin Aufderhar",
+      "id": 6
+    },
+    {
+      "name": "Jim Borer",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "hiking",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Rubber Salad",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Steel Keyboard",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Granite Chair",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Modern Soft Table",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Modern Soft Car",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Wooden Table",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Plastic Mouse",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Frozen Shoes",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Concrete Cheese",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Soft Shirt",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Steel Table",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Practical Rubber Bike",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Granite Chair",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Granite Salad",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Refined Cotton Bacon",
+      "id": 25
+    }
+  ],
+  "photos": []
+}
